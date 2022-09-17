@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewApp</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="enter_your_name">Enter your name here</string>
+    <string name="proceed">Proceed</string>
+
+    <string name="passage1">This is passage one</string>
+    <string name="passage2">This is passage two</string>
+    <string name="passage3">This is passage three</string>
+
+</resources>
